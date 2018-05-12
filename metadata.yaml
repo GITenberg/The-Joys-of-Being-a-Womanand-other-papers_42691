@@ -1,0 +1,36 @@
+_repo: The-Joys-of-Being-a-Womanand-other-papers_42691
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42691-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kirkland, Winifred Margaretta
+    alias: Priceman, James
+    birthdate: 1872
+    deathdate: 1943
+    gutenberg_agent_id: '41819'
+    url: http://www.gutenberg.org/2009/agents/41819
+description: ''
+gutenberg_issued: '2013-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 20th century'
+- !lcc 'PS'
+- !lcsh 'Women'
+tableOfContents: 'Foreword: the ego in the essay -- The joys of being a woman -- A
+  man in the house -- Old-clothes sensations -- Luggage and the lady -- Detached thoughts
+  on boarding -- The lady alone at night -- In sickness and in health -- An educational
+  fantasy -- My clothes -- The tendency to testify -- Letters and letter-writers --
+  The tyranny of talent -- The woman who writes -- Picnic pictures -- The farm feminine
+  -- A little girl and her grandmother -- The wayfaring woman -- The road that talked
+  -- My mother''s gardeners -- My little town -- Genus Clericum -- Some difficulties
+  in doing without eternity.'
+title: The Joys of Being a Woman, and Other Papers
+url: http://www.gutenberg.org/ebooks/42691
